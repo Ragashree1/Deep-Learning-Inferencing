@@ -10,4 +10,4 @@ To install the necessary dependencies, run the following commands:
 !pip install -q git+https://github.com/huggingface/transformers.git
 !pip install -q timm
 !pip install --upgrade pymupdf
-!pip install tabula-py ```
+!pip install tabula-py
